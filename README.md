@@ -27,26 +27,6 @@ public class calculator {
         System.out.println("I can only add, subtract, multiply, and divide..");
         System.out.println("Choose one and type it out (in all lowercase).");
 
-        String funct;
-        funct = mrScanner.nextLine();
-
-        if (funct == "add");
-        {
-            System.out.println("You chose to add");
-        }
-        if (funct == "subtract");  //i can't get an else if statement to work for some reason
-        {
-            System.out.println("You chose to subtract");
-        }
-        if (funct == "multiply");
-        {
-            System.out.println("You chose to multiply");
-        }
-        if (funct == "divide");
-        {
-            System.out.println("You chose to divide");
-        }
-
     }
 
 
